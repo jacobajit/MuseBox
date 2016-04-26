@@ -10,3 +10,5 @@ Be a one-man band with your brain. Translate your auditory imagination to actual
 *Useful for meditating and gaining control of thoughts and imagination. Precision of thought help you get focused, and become one with yourself. Perhaps even more important for those with autism and other brain disorders, to obtain a better sense of coordination and concentration.
 
 *paulirish's code provided a framework for obtaining socketed data from the Muse, which was used to check for thresholds and modified to provide visual feedback.
+
+*First demoed at HackTJ selected as a top project
